@@ -10,7 +10,7 @@ Project work as part of Udacity Bertelsmann Data Science Challenge
 
 
 # Dataset 1: Titanic Dataset
-	This dataset is one of the most popular datasets from Kaggle. The reason why I chose this dataset is because, there are lots of analysis available online. I have done some initial analysis with the data to start with. 
+This dataset is one of the most popular datasets from Kaggle. The reason why I chose this dataset is because, there are lots of analysis available online. I have done some initial analysis with the data to start with. 
 
  	* Our task is to do further analysis with Titanic dataset, and see what information you can come up with from data. 
 
