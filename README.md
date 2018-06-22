@@ -10,7 +10,7 @@ Project work as part of Udacity Bertelsmann Data Science Challenge
 
 
 # Dataset 1: Titanic Dataset
-This dataset is one of the most popular datasets from Kaggle. The reason why I chose this dataset is because, there are lots of analysis available online. I have done some initial analysis with the data to start with. 
+This dataset is one of the most popular datasets from Kaggle. The reason why I chose this dataset is because, there are lots of analysis available online. I have done some initial analysis with the data to start with.
 
 -> Our task is to do further analysis with Titanic dataset, and see what information you can come up with from data. 
 
@@ -23,3 +23,9 @@ This dataset is one of the most popular datasets from Kaggle. The reason why I c
  1. Anaconda (Refer: )
  2. Python3 
  3. Set up git and familiarize with git commands (A great course by Udacity: )
+
+# We can decide on a feasible timing coming weekend and go through everyone's contribution. That way we'll all be able to bring some insights to this dataset. 
+
+Feel free to do anything with the data. Once you are ready to begin please fill up this google sheet with what analysis you would be doing. https://docs.google.com/spreadsheets/d/1N6VcEDzF2y9JLhu6W67wfqcOoRE6jCP9uteWKBy0RKM/edit#gid=1406548495 This way we can minimize two people working on same analysis. You can do analysis, visual plot, anything you want with the dataset. It's all yours! 
+
+The more analysis we derive, the merrier it would be! :) Let us learn together!
