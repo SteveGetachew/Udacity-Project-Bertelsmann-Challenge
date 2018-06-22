@@ -4,9 +4,9 @@ Project work as part of Udacity Bertelsmann Data Science Challenge
 # Purpose: To familiarize with datasets
 
 # Pre-requisite:
-	* Install Anaconda (Refer Udacity link if any doubt: <add link> , or use my slack handle jicksy)
-	* Open Jupyter Notebook 
-	* The sample notebooks will be provided as .ipynb file, so it will be convenient if you have Anaconda installed. So you just need to run the .ipynb file given inside each dataset folder for starting off.
+* Install Anaconda (Refer Udacity link if any doubt: <add link> , or use my slack handle jicksy)
+* Open Jupyter Notebook 
+* The sample notebooks will be provided as .ipynb file, so it will be convenient if you have Anaconda installed. So you just need to run the .ipynb file given inside each dataset folder for starting off.
 
 
 # Dataset 1: Titanic Dataset
