@@ -21,7 +21,7 @@ Project work as part of Udacity Bertelsmann Data Science Challenge
 
 * Feel free to use google to get ideas, and also try to understand how different analysis are driven out from this dataset. 
 
-* Contribute atleast one meaningful analysis per person and provide steps to do it. (If possible do a pull request, and I'll allow commits to my repository. You can also provide your git repository link and I'll add your link in the first .README file.) 
+* Contribute atleast one meaningful analysis per person and provide steps to do it. (If possible do a pull request, and I'll allow commits to my repository. You can also provide your git repository link and I'll add your link in the first .README file.) If you are not able to do git, don't worry- we'll get there. Focus first on getting to run the .ipynb file.
 
 * We can put up a medium post with all different visuals that we are coming up with - Initial analysis of titanic dataset and add all our names as contributors. That can account for Social media presence for us! :) 
 
