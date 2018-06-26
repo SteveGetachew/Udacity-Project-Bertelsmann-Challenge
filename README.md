@@ -2,14 +2,7 @@
 
 Project work as part of Udacity Bertelsmann Data Science Challenge
 
-## Purpose: To familiarize with datasets
-
-
-## Pre-requisite:
-
-* Install Anaconda (Refer Udacity link if any doubt: <add link> , or use my slack handle jicksy)
-* Launch Jupyter notebook in your browser
-
+## Purpose: To familiarize with datasets and derive insights out of it
 
 ## Dataset 1: Titanic Dataset
 
