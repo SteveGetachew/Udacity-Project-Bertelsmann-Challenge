@@ -17,15 +17,15 @@ Project work as part of Udacity Bertelsmann Data Science Challenge
 
 * This dataset is one of the most popular datasets from Kaggle. The reason why I chose this dataset is because, there are lots of analysis available online. Hence, this dataset can be a good starting point for beginners.
 
--> Our task is to do further analysis with Titanic dataset, and see what information you can come up with from this dataset. 
+* Our task is to do further analysis with Titanic dataset, and see what information you can come up with from this dataset. 
 
--> Feel free to use google to get ideas, and also try to understand how different analysis are driven out from this dataset. 
+* Feel free to use google to get ideas, and also try to understand how different analysis are driven out from this dataset. 
 
--> Contribute atleast one meaningful analysis per person and provide steps to do it. (If possible do a pull request, and I'll allow commits to my repository. You can also provide your git repository link and I'll add your link in the first .README file.) 
+* Contribute atleast one meaningful analysis per person and provide steps to do it. (If possible do a pull request, and I'll allow commits to my repository. You can also provide your git repository link and I'll add your link in the first .README file.) 
 
--> We can put up a medium post with all different visuals that we are coming up with - Initial analysis of titanic dataset and add all our names as contributors. That can account for Social media presence for us! :) 
+* We can put up a medium post with all different visuals that we are coming up with - Initial analysis of titanic dataset and add all our names as contributors. That can account for Social media presence for us! :) 
 
-#### -> I'll keep a buffer for first week as few of us will have to install 
+#### * I'll keep a buffer for first week as few of us will have to install 
 
  1. Anaconda (Link: https://www.anaconda.com/download/#linux) 
  2. Install Anaconda Python 3.6 version for all OS
